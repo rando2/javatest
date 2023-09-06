@@ -1,1 +1,1 @@
-javac test.java
+javac App.java
